@@ -14,3 +14,8 @@
  rm testing.py
  git restore testing.py
  history
+ mkdir repo
+ cd repo/
+  git clone https://github.com/vishcloud/github-for-devops-workshop.git
+  git status
+  history
