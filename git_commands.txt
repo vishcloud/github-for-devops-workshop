@@ -1,0 +1,16 @@
+ git init
+ git status
+ git status
+ git status
+ git add testing.py
+ git rm --chache testing.py to unstage
+ git rm --cached testing.py to unstage
+ git rm --cached testing.py
+ git add .
+ git commit -m "added testing file"
+ git config --global user.email "pimpalevishal@gmail.com"
+ git config --global user.name vishal
+ git commit -m "added testing files"
+ rm testing.py
+ git restore testing.py
+ history
